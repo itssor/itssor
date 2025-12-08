@@ -8,7 +8,7 @@
   <br />
 
   <!-- Subtitle -->
-  <code>[ minimal . dark . red ]</code>
+  <code></code>
 
   <br />
   <br />
@@ -45,12 +45,11 @@
 <!-- Interactive Sections -->
 
 <details>
-<summary><strong><code> > /whoami </code> (click to read)</strong></summary>
+<summary><strong><code> > /whoami </code> </strong></summary>
 <br />
   
 > **identity:** sor (sorbtw)  
-> **status:** retired from fortnite // grinding valorant & roblox  
-> **vibe:** minimalist, high-contrast, audiophile  
+> **status:** retired from fortnite // grinding valorant & roblox    
 > **listening:** ericdoa, glaive, hyperpop  
 
 </details>
