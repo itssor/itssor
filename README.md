@@ -1,28 +1,41 @@
-<!-- align center for the aesthetic -->
 <div align="center">
 
-  <!-- header / logo placeholder -->
-  <h1 style="color: #ff002b;">sor / system_root</h1>
-  <p>
-    <code>exploit dev</code> . <code>minimalist</code> . <code>audiophile</code>
-  </p>
+  <!-- Title -->
+  <h1 style="color: #ff002b; font-size: 3rem;">sor</h1> 
+  <p>minimalist / dev</p>
+  
+  <br />
 
-  <!-- dynamic spotify status (listening to ericdoa) -->
-  <!-- replace 'user' with your spotify user id or setup the vercel app for this -->
-  <a href="https://open.spotify.com/user/31sutg4qqtbm2zkhzn4hljhtmkxe">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sutg4qqtbm2zkhzn4hljhtmkxe&cover_image=true&theme=novaterm&bar_color=ff002b&bar_color_cover=false" alt="spotify status" />
+  <!-- Website -->
+  <a href="https://sorbtw.netlify.app">
+    <img src="https://img.shields.io/badge/WEBSITE-050505?style=for-the-badge&logo=googlechrome&logoColor=ff002b" alt="Website" />
   </a>
 
-  <br/><br/>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@itsorbtw">
+    <img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=ff002b" alt="YouTube" />
+  </a>
 
-  <!-- terminal stats // custom theme matches your hex codes -->
-  <img src="https://github-readme-stats.vercel.app/api?username=itssor&show_icons=true&theme=bear&bg_color=050505&title_color=ff002b&text_color=ffffff&icon_color=ff002b&border_color=ff002b&hide_border=false" alt="sor's github stats" />
+  <!-- Medal.tv -->
+  <a href="https://medal.tv/u/sorbtw/?invite=ur-MSxURHgsNDA5Mzc5MjA2">
+    <img src="https://img.shields.io/badge/MEDAL.TV-050505?style=for-the-badge&logo=medal&logoColor=ff002b" alt="Medal" />
+  </a>
 
-  <br/>
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/31sutg4qqtbm2zkhzn4hljhtmkxe?si=da59ab6b39ef4c35">
+    <img src="https://img.shields.io/badge/SPOTIFY-050505?style=for-the-badge&logo=spotify&logoColor=ff002b" alt="Spotify" />
+  </a>
 
-  <!-- tech stack "badges" but styled minimal -->
-  <p>
-    <code>[ python ]</code> <code>[ c++ ]</code> <code>[ lua ]</code> <code>[ reverse_eng ]</code>
-  </p>
+  <!-- Discord (You didn't provide the invite link, replace YOUR_LINK below) -->
+  <a href="YOUR_DISCORD_INVITE_LINK_HERE">
+    <img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=ff002b" alt="Discord" />
+  </a>
+
+  <br />
+  <br />
+
+  <!-- Optional: Simple Stats (No setup required, just your username) -->
+  <!-- If you hate this, just delete this block. It's styled flat to match. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=itssor&show_icons=true&bg_color=050505&title_color=ff002b&text_color=ffffff&icon_color=ff002b&border_color=050505&hide_border=true" alt="sor stats" />
 
 </div>
